@@ -103,7 +103,7 @@ let g:mail42 = 'lmedrano@student.42lausanne.ch'
  colorscheme nord
  set termguicolors
 
- highlight Cursor guifg=white guibg=black
+highlight Cursor guifg=white guibg=black
 highlight iCursor guifg=white guibg=steelblue
 set guicursor=n-v-c:block-Cursor
 set guicursor+=i:ver100-iCursor
